@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Engr100-Vision</string>
+    <string name="app_name">Qtune-CV</string>
     <string name="action_calibrate">Calibrate</string>
 <string name="calibration">Calibration</string>
 <string name="undistortion">Undistortion</string>
